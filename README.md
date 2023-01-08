@@ -3,7 +3,7 @@ Christmass/Winter theme for BetterDiscord and OpenAsar. Based on Translucence.
 
 ### how to use?
 1. BetterDiscord
- - download the file from the releases
+ - download the file from the releases ("christmass.theme.css" loads the theme from my website, "christmasstheme.theme.css" has the coe from the website in it, so it works better)
  - copy the downloaded file(from the folder you downloaded it to)
  - go to settings > themes and click "Open Theme Folder"
  - paste the file there
